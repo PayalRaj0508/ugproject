@@ -476,7 +476,7 @@
         // Load JSON data
         async function loadData() {
             try {
-                const response = await fetch('ugprodata.json');
+                const response = await fetch('ugpro.json');
                 allData = await response.json();
                 
                 // Update statistics
@@ -652,4 +652,5 @@
         window.onload = loadData;
     </script>
 </body>
+
 </html>
