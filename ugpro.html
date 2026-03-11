@@ -476,7 +476,7 @@
         // Load JSON data
         async function loadData() {
             try {
-                const response = await fetch('ugpro.json');
+                const response = await fetch('ugdata.json');
                 allData = await response.json();
                 
                 // Update statistics
@@ -491,7 +491,7 @@
                     <tr>
                         <td colspan="6" style="text-align: center; padding: 40px; color: #ff6b6b;">
                             <div style="font-size: 2em; margin-bottom: 10px;">⚠️</div>
-                            Error loading data. Please make sure 'ugpro.json' file exists.
+                            Error loading data. Please make sure 'ugdata.json' file exists.
                         </td>
                     </tr>
                 `;
@@ -654,4 +654,5 @@
 </body>
 
 </html>
+
 
