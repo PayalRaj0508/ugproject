@@ -507,14 +507,14 @@
             
             // Define types to track
             const types = [
-                'Not Submitted',
-                'Internship+UDP',
+                'NOT SUBMITTED',
+                'INTERNSHIP +UDP',
                 'UDP',
                 'IDP',
-                'Consultancy',
-                'Internship+AB',
-                'Consultancy +Internship',
-                'Internship'
+                'CONSULTANCY',
+                'INTERNSHIP+AB',
+                'CONSULTANCY +INTERNSHIP',
+                'INTERNSHIP'
             ];
             
             // Calculate counts
@@ -590,6 +590,7 @@
                     student['Student Name'].toLowerCase().includes(searchTerm) ||
                     student['Enrollment No.'].toLowerCase().includes(searchTerm) ||
                     student['Specialization'].toLowerCase().includes(searchTerm) ||
+                    student['Course'].toLowerCase().includes(searchTerm) ||
                     student['Type'].toLowerCase().includes(searchTerm)
                 );
             }
@@ -624,14 +625,14 @@
                 let badgeClass = 'type-badge ';
                 const type = student.Type;
                 
-                if (type.includes('Not Submitted')) badgeClass += 'type-not-submitted';
-                else if (type.includes('Internship+UDP')) badgeClass += 'type-internship-udp';
+                if (type.includes('NOT SUBMITTED')) badgeClass += 'type-not-submitted';
+                else if (type.includes('INTERNSHIP+UDP')) badgeClass += 'type-internship-udp';
                 else if (type === 'UDP') badgeClass += 'type-udp';
                 else if (type === 'IDP') badgeClass += 'type-idp';
-                else if (type === 'Consultancy') badgeClass += 'type-consultancy';
-                else if (type.includes('Internship+AB')) badgeClass += 'type-internship';
-                else if (type.includes('Consultancy +Internship')) badgeClass += 'type-consultancy-internship';
-                else if (type === 'Internship') badgeClass += 'type-internship';
+                else if (type === 'CONSULTANCY') badgeClass += 'type-consultancy';
+                else if (type.includes('INTERNSHIP+AB')) badgeClass += 'type-internship';
+                else if (type.includes('CONSULTANCY +INTERNSHIP')) badgeClass += 'type-consultancy-internship';
+                else if (type === 'INTERNSHIP') badgeClass += 'type-internship';
                 else badgeClass += 'type-udp';
                 
                 html += `
@@ -640,6 +641,7 @@
                         <td data-label="Enrollment No.">${student['Enrollment No.']}</td>
                         <td data-label="Student Name">${student['Student Name']}</td>
                         <td data-label="Specialization">${student['Specialization']}</td>
+                        <td data-label="Course">${student['Course']}</td>
                         <td data-label="Semester">${student['Semester']}</td>
                         <td data-label="Type"><span class="${badgeClass}">${student['Type']}</span></td>
                     </tr>
