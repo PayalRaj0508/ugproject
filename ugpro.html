@@ -451,13 +451,14 @@
                         <th>Enrollment No.</th>
                         <th>Student Name</th>
                         <th>Specialization</th>
+                        <th>Course</th>
                         <th>Semester</th>
                         <th>Type</th>
                     </tr>
                 </thead>
                 <tbody id="tableBody">
                     <tr class="loading">
-                        <td colspan="6">
+                        <td colspan="7">
                             <div class="spinner"></div>
                             Loading data...
                         </td>
@@ -489,7 +490,7 @@
                 console.error('Error loading data:', error);
                 document.getElementById('tableBody').innerHTML = `
                     <tr>
-                        <td colspan="6" style="text-align: center; padding: 40px; color: #ff6b6b;">
+                        <td colspan="7" style="text-align: center; padding: 40px; color: #ff6b6b;">
                             <div style="font-size: 2em; margin-bottom: 10px;">⚠️</div>
                             Error loading data. Please make sure 'ugdata.json' file exists.
                         </td>
