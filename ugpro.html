@@ -508,12 +508,12 @@
             // Define types to track
             const types = [
                 'NOT SUBMITTED',
-                'INTERNSHIP +UDP',
+                'INTERNSHIP+UDP',
                 'UDP',
                 'IDP',
                 'CONSULTANCY',
                 'INTERNSHIP+AB',
-                'CONSULTANCY +INTERNSHIP',
+                'CONSULTANCY+INTERNSHIP',
                 'INTERNSHIP'
             ];
             
@@ -631,7 +631,7 @@
                 else if (type === 'IDP') badgeClass += 'type-idp';
                 else if (type === 'CONSULTANCY') badgeClass += 'type-consultancy';
                 else if (type.includes('INTERNSHIP+AB')) badgeClass += 'type-internship';
-                else if (type.includes('CONSULTANCY +INTERNSHIP')) badgeClass += 'type-consultancy-internship';
+                else if (type.includes('CONSULTANCY+INTERNSHIP')) badgeClass += 'type-consultancy-internship';
                 else if (type === 'INTERNSHIP') badgeClass += 'type-internship';
                 else badgeClass += 'type-udp';
                 
