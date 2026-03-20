@@ -4,8 +4,8 @@
   "Student Name" : "SARGAM GUPTA",
   "Specialization" : "AI",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 2,
@@ -13,8 +13,8 @@
   "Student Name" : "ADITYA MEHRA",
   "Specialization" : "AI",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 3,
@@ -22,8 +22,8 @@
   "Student Name" : "ABHISHEK JAIN",
   "Specialization" : "AI",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 4,
@@ -31,8 +31,8 @@
   "Student Name" : "BALAN AJIT VINOD",
   "Specialization" : "AI",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 5,
@@ -40,8 +40,8 @@
   "Student Name" : "DEDAKIYA JHANVI RAJNIKUMAR",
   "Specialization" : "AI",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 6,
@@ -49,8 +49,8 @@
   "Student Name" : "DHARAVATH SANDYA",
   "Specialization" : "AI",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 7,
@@ -58,8 +58,8 @@
   "Student Name" : "DHRUVI DHIRAWAT",
   "Specialization" : "AI",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 8,
@@ -67,8 +67,8 @@
   "Student Name" : "PATIL RAJ MAHESH",
   "Specialization" : "AI",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 9,
@@ -76,8 +76,8 @@
   "Student Name" : "RAWAT SAKSHI DINESH",
   "Specialization" : "AI",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 10,
@@ -85,8 +85,8 @@
   "Student Name" : "THAKKAR NIDHI VIJAYKUMAR",
   "Specialization" : "AI",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 11,
@@ -94,8 +94,8 @@
   "Student Name" : "SEJAL PAWAR",
   "Specialization" : "AI",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 12,
@@ -103,8 +103,8 @@
   "Student Name" : "SREEMAN AISHWARYA",
   "Specialization" : "AI",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 13,
@@ -112,8 +112,8 @@
   "Student Name" : "UPPARI NIKITHA",
   "Specialization" : "AI",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 14,
@@ -121,8 +121,8 @@
   "Student Name" : "PARTH PATIDAR",
   "Specialization" : "AI",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 15,
@@ -130,8 +130,8 @@
   "Student Name" : "POLISETTI PAVAN SUBHASH SRI SAI",
   "Specialization" : "AI",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 16,
@@ -139,8 +139,8 @@
   "Student Name" : "ANIRUDDH UPADHYAY",
   "Specialization" : "AI",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 17,
@@ -148,8 +148,8 @@
   "Student Name" : "UMANG GAUTAM",
   "Specialization" : "AI",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 18,
@@ -157,8 +157,8 @@
   "Student Name" : "ALLIKA PUJITHA",
   "Specialization" : "AI",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 19,
@@ -166,8 +166,8 @@
   "Student Name" : "MOHD AHMAD SHERWANI",
   "Specialization" : "AI",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 20,
@@ -175,8 +175,8 @@
   "Student Name" : "PULIKONDA VENKATA SAI MANEESHA",
   "Specialization" : "AI",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 21,
@@ -184,8 +184,8 @@
   "Student Name" : "MADHURAJU DHARMA PRASAD",
   "Specialization" : "AI",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 22,
@@ -193,8 +193,8 @@
   "Student Name" : "ANAND SAXENA",
   "Specialization" : "AI",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 23,
@@ -202,8 +202,8 @@
   "Student Name" : "DHRUV PANCHAL",
   "Specialization" : "AI",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 24,
@@ -211,8 +211,8 @@
   "Student Name" : "DIVYA PANDE",
   "Specialization" : "AI",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 25,
@@ -220,8 +220,8 @@
   "Student Name" : "DOBARIYA PARTH KAMLESHBHAI",
   "Specialization" : "AI",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 26,
@@ -229,8 +229,8 @@
   "Student Name" : "GOVINDARAJULA HARSHA VARDHAN",
   "Specialization" : "AI",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 27,
@@ -238,8 +238,8 @@
   "Student Name" : "JOSHI HARSHILKUMAR MANISHBHAI",
   "Specialization" : "AI",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 28,
@@ -247,8 +247,8 @@
   "Student Name" : "KSHITIJ VYAS",
   "Specialization" : "AI",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 29,
@@ -256,8 +256,8 @@
   "Student Name" : "MANISANKAR M M",
   "Specialization" : "AI",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 30,
@@ -265,8 +265,8 @@
   "Student Name" : "NAVNEET MISHRA",
   "Specialization" : "AI",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 31,
@@ -274,8 +274,8 @@
   "Student Name" : "PANDE JANHVI NANDKISHOR",
   "Specialization" : "AI",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 32,
@@ -283,8 +283,8 @@
   "Student Name" : "PIYUSH SINGH JADAV",
   "Specialization" : "AI",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 33,
@@ -292,8 +292,8 @@
   "Student Name" : "RAJ BUGALIA",
   "Specialization" : "AI",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 34,
@@ -301,8 +301,8 @@
   "Student Name" : "RAVI RANJAN",
   "Specialization" : "AI",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 35,
@@ -310,8 +310,8 @@
   "Student Name" : "SINGH NANDINI PRADEEP",
   "Specialization" : "AI",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 36,
@@ -319,8 +319,8 @@
   "Student Name" : "SWASTIK SHARMA",
   "Specialization" : "AI",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 37,
@@ -328,8 +328,8 @@
   "Student Name" : "TEJPAL PATIDAR",
   "Specialization" : "AI",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 38,
@@ -337,8 +337,8 @@
   "Student Name" : "VALOTRA AVNEET SINGH GURMINDERJIT SINGH",
   "Specialization" : "AI",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 39,
@@ -346,8 +346,8 @@
   "Student Name" : "SAHIL SAGAR",
   "Specialization" : "AI",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 40,
@@ -355,8 +355,8 @@
   "Student Name" : "DIVYA BHATT",
   "Specialization" : "AI",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 41,
@@ -364,8 +364,8 @@
   "Student Name" : "BOPPANA NAGA VENKATA MAHIDHAR BABU",
   "Specialization" : "AI",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 42,
@@ -373,8 +373,8 @@
   "Student Name" : "CHINTA TARUN SIVA KRISHNA",
   "Specialization" : "AI",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 43,
@@ -382,8 +382,8 @@
   "Student Name" : "KONDUBOINA SUDHEER",
   "Specialization" : "AI",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 44,
@@ -391,8 +391,8 @@
   "Student Name" : "MARUBOYINA VINAY ABHIRAM",
   "Specialization" : "AI",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 45,
@@ -400,8 +400,8 @@
   "Student Name" : "R JAN STEVE DANIEL",
   "Specialization" : "AI",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 46,
@@ -409,8 +409,8 @@
   "Student Name" : "UPADHYAY GAURAV VIJAY",
   "Specialization" : "AI",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 47,
@@ -418,8 +418,8 @@
   "Student Name" : "KIRTAN TRIVEDI",
   "Specialization" : "AI",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 48,
@@ -427,8 +427,8 @@
   "Student Name" : "PATIL HARSH VIKASH",
   "Specialization" : "AI",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 49,
@@ -436,8 +436,8 @@
   "Student Name" : "GADDAM NAVEEN",
   "Specialization" : "AI",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 50,
@@ -445,8 +445,8 @@
   "Student Name" : "MEDISETTI RITHVIK SRIKAR",
   "Specialization" : "AI",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 51,
@@ -454,8 +454,8 @@
   "Student Name" : "AKSHAY KUMAR CHAUBEY",
   "Specialization" : "CSF",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 52,
@@ -463,8 +463,8 @@
   "Student Name" : "ANKIT SINGH",
   "Specialization" : "CSF",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 53,
@@ -472,8 +472,8 @@
   "Student Name" : "ATUL TRIPATHI",
   "Specialization" : "CSF",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 54,
@@ -481,8 +481,8 @@
   "Student Name" : "CHAUDHARY ROHIT RAVINDRA",
   "Specialization" : "CSF",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 55,
@@ -490,8 +490,8 @@
   "Student Name" : "CHIRUTKAR MAYUR NAMDEV",
   "Specialization" : "CSF",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 56,
@@ -499,8 +499,8 @@
   "Student Name" : "GIRI SIDDHARTH RANJEET",
   "Specialization" : "CSF",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 57,
@@ -508,8 +508,8 @@
   "Student Name" : "KRISHNA SHANKAR",
   "Specialization" : "CSF",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 58,
@@ -517,8 +517,8 @@
   "Student Name" : "NISHANT ROHIN",
   "Specialization" : "CSF",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 59,
@@ -526,8 +526,8 @@
   "Student Name" : "NITESH YADAV",
   "Specialization" : "CSF",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 60,
@@ -535,8 +535,8 @@
   "Student Name" : "PATEL ARCHI DEEPAKBHAI",
   "Specialization" : "CSF",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 61,
@@ -544,8 +544,8 @@
   "Student Name" : "PATEL DHRUVKUMAR DINESHCHANDRA",
   "Specialization" : "CSF",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 62,
@@ -553,8 +553,8 @@
   "Student Name" : "PATEL SMITKUMAR MUKESHBHAI",
   "Specialization" : "CSF",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 63,
@@ -562,8 +562,8 @@
   "Student Name" : "RAHUL KUMAR GUPTA",
   "Specialization" : "CSF",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 64,
@@ -571,8 +571,8 @@
   "Student Name" : "SHARMA SATAKSHI SANJAY",
   "Specialization" : "CSF",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 65,
@@ -580,8 +580,8 @@
   "Student Name" : "SHIKHAR SAXENA",
   "Specialization" : "CSF",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 66,
@@ -589,8 +589,8 @@
   "Student Name" : "SUDARSHAN SINHA",
   "Specialization" : "CSF",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 67,
@@ -598,8 +598,8 @@
   "Student Name" : "SUPARNA DAS",
   "Specialization" : "CSF",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 68,
@@ -607,8 +607,8 @@
   "Student Name" : "SURTI ZAINAB ALFARAZ",
   "Specialization" : "CSF",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 69,
@@ -616,8 +616,8 @@
   "Student Name" : "ANKIT KUMAR",
   "Specialization" : "CSF",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 70,
@@ -625,8 +625,8 @@
   "Student Name" : "UNMUKTA DAS",
   "Specialization" : "CSF",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 71,
@@ -634,8 +634,8 @@
   "Student Name" : "ETTY SAI YESHWANTH",
   "Specialization" : "CSF",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 72,
@@ -643,8 +643,8 @@
   "Student Name" : "RAJU RANJAN CHOUDHARY",
   "Specialization" : "CSF",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 73,
@@ -652,8 +652,8 @@
   "Student Name" : "SAROJ ANIKET RAMSAHAYA",
   "Specialization" : "CSF",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 74,
@@ -661,8 +661,8 @@
   "Student Name" : "RAYAPUREDDY VINAI",
   "Specialization" : "CSF",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 75,
@@ -670,8 +670,8 @@
   "Student Name" : "ARPIT KRISHNANI",
   "Specialization" : "CSF",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 76,
@@ -679,8 +679,8 @@
   "Student Name" : "ASHISH MAHTO",
   "Specialization" : "CSF",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 77,
@@ -688,8 +688,8 @@
   "Student Name" : "ADARSH MISHRA",
   "Specialization" : "CSF",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 78,
@@ -697,8 +697,8 @@
   "Student Name" : "PRIYANSHU KASHYAP",
   "Specialization" : "CSF",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 79,
@@ -706,8 +706,8 @@
   "Student Name" : "ARUNAV ROY SARKAR",
   "Specialization" : "CSF",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 80,
@@ -715,8 +715,8 @@
   "Student Name" : "BHALANI JEEL JEEVRAJBHAI",
   "Specialization" : "CSF",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 81,
@@ -724,8 +724,8 @@
   "Student Name" : "BITTU BAG",
   "Specialization" : "CSF",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 82,
@@ -733,8 +733,8 @@
   "Student Name" : "CHOUDHARY ASHISHKUMAR PAWANKUMAR",
   "Specialization" : "CSF",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 83,
@@ -742,8 +742,8 @@
   "Student Name" : "DASARI DURGA PRASAD",
   "Specialization" : "CSF",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 84,
@@ -751,8 +751,8 @@
   "Student Name" : "DEBRAJ ADHIKARI",
   "Specialization" : "CSF",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 85,
@@ -760,8 +760,8 @@
   "Student Name" : "JATIN JALPESH SHAH",
   "Specialization" : "CSF",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 86,
@@ -769,8 +769,8 @@
   "Student Name" : "JUNED MOHAMMED LAKHARA",
   "Specialization" : "CSF",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 87,
@@ -778,8 +778,8 @@
   "Student Name" : "KARANAM BHARGAV BALAJI NAIDU",
   "Specialization" : "CSF",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 88,
@@ -787,8 +787,8 @@
   "Student Name" : "KARAPU REDDY KASI VISWANADH REDDY",
   "Specialization" : "CSF",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 89,
@@ -796,8 +796,8 @@
   "Student Name" : "PARV JAIN",
   "Specialization" : "CSF",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 90,
@@ -805,8 +805,8 @@
   "Student Name" : "PATEL ISHA NILESHBHAI",
   "Specialization" : "CSF",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 91,
@@ -814,8 +814,8 @@
   "Student Name" : "PATEL VRUSHTIBEN NILESH",
   "Specialization" : "CSF",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 92,
@@ -823,8 +823,8 @@
   "Student Name" : "PREET PATIDAR",
   "Specialization" : "CSF",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 93,
@@ -832,8 +832,8 @@
   "Student Name" : "SURBHI KUMARI",
   "Specialization" : "CSF",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 94,
@@ -841,8 +841,8 @@
   "Student Name" : "VYAS TRUPTI MAHESHKUMAR",
   "Specialization" : "CSF",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 95,
@@ -850,8 +850,8 @@
   "Student Name" : "BLESSON KAKKASSERY",
   "Specialization" : "CSF",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 96,
@@ -859,8 +859,8 @@
   "Student Name" : "SATYALA RAMTHU BASHA",
   "Specialization" : "CSF",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 97,
@@ -868,8 +868,8 @@
   "Student Name" : "TAMMINANA JAGADEESH",
   "Specialization" : "CSF",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 98,
@@ -877,8 +877,8 @@
   "Student Name" : "SHIRKE RUDRA VAIBHAV",
   "Specialization" : "CSF",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 99,
@@ -886,8 +886,8 @@
   "Student Name" : "RAPETI SYAMALA RAO",
   "Specialization" : "CSF",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 100,
@@ -895,8 +895,8 @@
   "Student Name" : "KUMMETHA VINAY KUMAR REDDY",
   "Specialization" : "CSF",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 101,
@@ -904,8 +904,8 @@
   "Student Name" : "ISHA MUKTESH KUAR BISWAS",
   "Specialization" : "MICROSOFT",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 102,
@@ -913,8 +913,8 @@
   "Student Name" : "ISHAN PANDYA",
   "Specialization" : "MICROSOFT",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 103,
@@ -922,8 +922,8 @@
   "Student Name" : "PRIYANKA LAXMAN BHARWANI",
   "Specialization" : "MICROSOFT",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 104,
@@ -931,8 +931,8 @@
   "Student Name" : "SIDDHARTH SINGH BAGHEL",
   "Specialization" : "MICROSOFT",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 105,
@@ -940,8 +940,8 @@
   "Student Name" : "ADITYA GOYAL",
   "Specialization" : "MICROSOFT",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 106,
@@ -949,8 +949,8 @@
   "Student Name" : "KEYUR BHAVESH TRIVEDI",
   "Specialization" : "MICROSOFT",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 107,
@@ -958,8 +958,8 @@
   "Student Name" : "NIRMAL KUNDARIYA",
   "Specialization" : "MICROSOFT",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 108,
@@ -967,8 +967,8 @@
   "Student Name" : "PARMAR PRINCE HITESHKUMAR",
   "Specialization" : "MICROSOFT",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 109,
@@ -976,8 +976,8 @@
   "Student Name" : "PARMAR VAIDEHI SANJAY",
   "Specialization" : "MICROSOFT",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 110,
@@ -985,8 +985,8 @@
   "Student Name" : "PATEL HEMIL",
   "Specialization" : "MICROSOFT",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 111,
@@ -994,8 +994,8 @@
   "Student Name" : "PRATHAM GARG",
   "Specialization" : "MICROSOFT",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 112,
@@ -1003,8 +1003,8 @@
   "Student Name" : "SRISHTI SONI",
   "Specialization" : "MICROSOFT",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 113,
@@ -1012,8 +1012,8 @@
   "Student Name" : "SUBHAM GOKULA BHUYAN",
   "Specialization" : "MICROSOFT",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 114,
@@ -1021,8 +1021,8 @@
   "Student Name" : "DHRUV KANZIYA",
   "Specialization" : "MICROSOFT",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 115,
@@ -1030,8 +1030,8 @@
   "Student Name" : "SAURABH JHA",
   "Specialization" : "MICROSOFT",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 116,
@@ -1039,8 +1039,8 @@
   "Student Name" : "BHUT DEVKUMAR",
   "Specialization" : "MICROSOFT",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 117,
@@ -1048,8 +1048,8 @@
   "Student Name" : "UDAY MAHARSHI",
   "Specialization" : "QUICK HEAL",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 118,
@@ -1057,8 +1057,8 @@
   "Student Name" : "PATEL PRATHAM DINESHKUMAR",
   "Specialization" : "QUICK HEAL",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 119,
@@ -1066,8 +1066,8 @@
   "Student Name" : "RANJANE VEERA VIRAJ",
   "Specialization" : "QUICK HEAL",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 1,
@@ -1075,8 +1075,8 @@
   "Student Name" : "SADAKALY ALY AKBAR",
   "Specialization" : "B.Sc. (IT) - Bachelor of Science in Information Technology",
   "Course" : "B.Sc (IT)",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 2,
@@ -1084,8 +1084,8 @@
   "Student Name" : "AMARI OMNESS ELIEL SAMUEL",
   "Specialization" : "B.Sc. (IT) - Bachelor of Science in Information Technology",
   "Course" : "B.Sc (IT)",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 3,
@@ -1093,8 +1093,8 @@
   "Student Name" : "BISHAL SHARMA",
   "Specialization" : "B.Sc. (IT) - Bachelor of Science in Information Technology",
   "Course" : "B.Sc (IT)",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 4,
@@ -1102,8 +1102,8 @@
   "Student Name" : "DABHI JAYDEEP RAGHUVIRSINH",
   "Specialization" : "B.Sc. (IT) - Bachelor of Science in Information Technology",
   "Course" : "B.Sc (IT)",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 5,
@@ -1111,8 +1111,8 @@
   "Student Name" : "DAMOR URVIBEN LALSINGBHAI",
   "Specialization" : "B.Sc. (IT) - Bachelor of Science in Information Technology",
   "Course" : "B.Sc (IT)",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 6,
@@ -1120,8 +1120,8 @@
   "Student Name" : "DARJI PRATHAM HARESH",
   "Specialization" : "B.Sc. (IT) - Bachelor of Science in Information Technology",
   "Course" : "B.Sc (IT)",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 7,
@@ -1129,8 +1129,8 @@
   "Student Name" : "DAVID JAMAL JAAN",
   "Specialization" : "B.Sc. (IT) - Bachelor of Science in Information Technology",
   "Course" : "B.Sc (IT)",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 8,
@@ -1138,8 +1138,8 @@
   "Student Name" : "DEWAN ABIR HOSSAIN",
   "Specialization" : "B.Sc. (IT) - Bachelor of Science in Information Technology",
   "Course" : "B.Sc (IT)",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 9,
@@ -1147,8 +1147,8 @@
   "Student Name" : "DHANANI SHRUTESH VIPULBHAI",
   "Specialization" : "B.Sc. (IT) - Bachelor of Science in Information Technology",
   "Course" : "B.Sc (IT)",
-  "SEM" : 6,
-  "Mini Project" : "CONSULTANCY +INTERNSHIP"
+  "Semester" : 6,
+  "Type" : "CONSULTANCY +INTERNSHIP"
 },
 {
   "S.No." : 10,
@@ -1156,8 +1156,8 @@
   "Student Name" : "DHOLA VIVEK M",
   "Specialization" : "B.Sc. (IT) - Bachelor of Science in Information Technology",
   "Course" : "B.Sc (IT)",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 11,
@@ -1165,8 +1165,8 @@
   "Student Name" : "DIWANSHU BHAGAT",
   "Specialization" : "B.Sc. (IT) - Bachelor of Science in Information Technology",
   "Course" : "B.Sc (IT)",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 12,
@@ -1174,8 +1174,8 @@
   "Student Name" : "GEDIYA ABHISHEK SUNILBHAI",
   "Specialization" : "B.Sc. (IT) - Bachelor of Science in Information Technology",
   "Course" : "B.Sc (IT)",
-  "SEM" : 6,
-  "Mini Project" : "CONSULTANCY +INTERNSHIP"
+  "Semester" : 6,
+  "Type" : "CONSULTANCY +INTERNSHIP"
 },
 {
   "S.No." : 13,
@@ -1183,8 +1183,8 @@
   "Student Name" : "HAJIPARA SARVESH KALPESHBHAI",
   "Specialization" : "B.Sc. (IT) - Bachelor of Science in Information Technology",
   "Course" : "B.Sc (IT)",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 14,
@@ -1192,8 +1192,8 @@
   "Student Name" : "HETALBEN DHARMENDRASINH SOLANKI",
   "Specialization" : "B.Sc. (IT) - Bachelor of Science in Information Technology",
   "Course" : "B.Sc (IT)",
-  "SEM" : 6,
-  "Mini Project" : "CONSULTANCY"
+  "Semester" : 6,
+  "Type" : "CONSULTANCY"
 },
 {
   "S.No." : 15,
@@ -1201,8 +1201,8 @@
   "Student Name" : "HTET MYAT HTOO",
   "Specialization" : "B.Sc. (IT) - Bachelor of Science in Information Technology",
   "Course" : "B.Sc (IT)",
-  "SEM" : 6,
-  "Mini Project" : "CONSULTANCY"
+  "Semester" : 6,
+  "Type" : "CONSULTANCY"
 },
 {
   "S.No." : 16,
@@ -1210,8 +1210,8 @@
   "Student Name" : "JYOTI SUBBA",
   "Specialization" : "B.Sc. (IT) - Bachelor of Science in Information Technology",
   "Course" : "B.Sc (IT)",
-  "SEM" : 6,
-  "Mini Project" : "CONSULTANCY"
+  "Semester" : 6,
+  "Type" : "CONSULTANCY"
 },
 {
   "S.No." : 17,
@@ -1219,8 +1219,8 @@
   "Student Name" : "KANANELO TLOTLISO KUMALO",
   "Specialization" : "B.Sc. (IT) - Bachelor of Science in Information Technology",
   "Course" : "B.Sc (IT)",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 18,
@@ -1228,8 +1228,8 @@
   "Student Name" : "LAZARUS RUPIYA",
   "Specialization" : "B.Sc. (IT) - Bachelor of Science in Information Technology",
   "Course" : "B.Sc (IT)",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 19,
@@ -1237,8 +1237,8 @@
   "Student Name" : "MAKVANA DHRUMIL CHANDRAKANT",
   "Specialization" : "B.Sc. (IT) - Bachelor of Science in Information Technology",
   "Course" : "B.Sc (IT)",
-  "SEM" : 6,
-  "Mini Project" : "CONSULTANCY"
+  "Semester" : 6,
+  "Type" : "CONSULTANCY"
 },
 {
   "S.No." : 20,
@@ -1246,8 +1246,8 @@
   "Student Name" : "MAKWANA RUDRAKUMAR RAKESHBHAI",
   "Specialization" : "B.Sc. (IT) - Bachelor of Science in Information Technology",
   "Course" : "B.Sc (IT)",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 21,
@@ -1255,8 +1255,8 @@
   "Student Name" : "MANKNOJIYA MAHIRBHAI JAVIDBHAI",
   "Specialization" : "B.Sc. (IT) - Bachelor of Science in Information Technology",
   "Course" : "B.Sc (IT)",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 22,
@@ -1264,8 +1264,8 @@
   "Student Name" : "MOON PATEL",
   "Specialization" : "B.Sc. (IT) - Bachelor of Science in Information Technology",
   "Course" : "B.Sc (IT)",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 23,
@@ -1273,8 +1273,8 @@
   "Student Name" : "NAGLA AMAN CHANDRESHBHAI",
   "Specialization" : "B.Sc. (IT) - Bachelor of Science in Information Technology",
   "Course" : "B.Sc (IT)",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 24,
@@ -1282,8 +1282,8 @@
   "Student Name" : "PARMAR PALAK VIPUL",
   "Specialization" : "B.Sc. (IT) - Bachelor of Science in Information Technology",
   "Course" : "B.Sc (IT)",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 25,
@@ -1291,8 +1291,8 @@
   "Student Name" : "PARMAR RAJ RAMESHBHAI",
   "Specialization" : "B.Sc. (IT) - Bachelor of Science in Information Technology",
   "Course" : "B.Sc (IT)",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 26,
@@ -1300,8 +1300,8 @@
   "Student Name" : "PATEL KRISH BHARAT BHAI",
   "Specialization" : "B.Sc. (IT) - Bachelor of Science in Information Technology",
   "Course" : "B.Sc (IT)",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 27,
@@ -1309,8 +1309,8 @@
   "Student Name" : "PATHAK HARIOM HIMANSHUBHAI",
   "Specialization" : "B.Sc. (IT) - Bachelor of Science in Information Technology",
   "Course" : "B.Sc (IT)",
-  "SEM" : 6,
-  "Mini Project" : "CONSULTANCY"
+  "Semester" : 6,
+  "Type" : "CONSULTANCY"
 },
 {
   "S.No." : 28,
@@ -1318,8 +1318,8 @@
   "Student Name" : "PEKA POPBOU JOEL JAURES",
   "Specialization" : "B.Sc. (IT) - Bachelor of Science in Information Technology",
   "Course" : "B.Sc (IT)",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 29,
@@ -1327,8 +1327,8 @@
   "Student Name" : "PHONE HTUT MYAT",
   "Specialization" : "B.Sc. (IT) - Bachelor of Science in Information Technology",
   "Course" : "B.Sc (IT)",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 30,
@@ -1336,8 +1336,8 @@
   "Student Name" : "PRANCHU PANCHAL",
   "Specialization" : "B.Sc. (IT) - Bachelor of Science in Information Technology",
   "Course" : "B.Sc (IT)",
-  "SEM" : 6,
-  "Mini Project" : "CONSULTANCY"
+  "Semester" : 6,
+  "Type" : "CONSULTANCY"
 },
 {
   "S.No." : 31,
@@ -1345,8 +1345,8 @@
   "Student Name" : "PRANJAL GARG",
   "Specialization" : "B.Sc. (IT) - Bachelor of Science in Information Technology",
   "Course" : "B.Sc (IT)",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 32,
@@ -1354,8 +1354,8 @@
   "Student Name" : "PRINCE BHAYDIYA",
   "Specialization" : "B.Sc. (IT) - Bachelor of Science in Information Technology",
   "Course" : "B.Sc (IT)",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 33,
@@ -1363,8 +1363,8 @@
   "Student Name" : "RATHOD ATIK SHABBIRHUSEN",
   "Specialization" : "B.Sc. (IT) - Bachelor of Science in Information Technology",
   "Course" : "B.Sc (IT)",
-  "SEM" : 6,
-  "Mini Project" : "CONSULTANCY"
+  "Semester" : 6,
+  "Type" : "CONSULTANCY"
 },
 {
   "S.No." : 34,
@@ -1372,8 +1372,8 @@
   "Student Name" : "RIDHI HITESHKUMAR THANKI",
   "Specialization" : "B.Sc. (IT) - Bachelor of Science in Information Technology",
   "Course" : "B.Sc (IT)",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 35,
@@ -1381,8 +1381,8 @@
   "Student Name" : "RUKAIYA OTHMAN MAULIDI",
   "Specialization" : "B.Sc. (IT) - Bachelor of Science in Information Technology",
   "Course" : "B.Sc (IT)",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 36,
@@ -1390,8 +1390,8 @@
   "Student Name" : "SHARMA MANISH SATYANARAYAN",
   "Specialization" : "B.Sc. (IT) - Bachelor of Science in Information Technology",
   "Course" : "B.Sc (IT)",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 37,
@@ -1399,8 +1399,8 @@
   "Student Name" : "SHEKHADA MANALI SANJAYBHAI",
   "Specialization" : "B.Sc. (IT) - Bachelor of Science in Information Technology",
   "Course" : "B.Sc (IT)",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 38,
@@ -1408,8 +1408,8 @@
   "Student Name" : "THINZAR AUNG",
   "Specialization" : "B.Sc. (IT) - Bachelor of Science in Information Technology",
   "Course" : "B.Sc (IT)",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 39,
@@ -1417,8 +1417,8 @@
   "Student Name" : "URVISH DHADUK",
   "Specialization" : "B.Sc. (IT) - Bachelor of Science in Information Technology",
   "Course" : "B.Sc (IT)",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 40,
@@ -1426,8 +1426,8 @@
   "Student Name" : "YE YINT WIN",
   "Specialization" : "B.Sc. (IT) - Bachelor of Science in Information Technology",
   "Course" : "B.Sc (IT)",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 41,
@@ -1435,8 +1435,8 @@
   "Student Name" : "ZUWENA HAMDAN ABEID",
   "Specialization" : "B.Sc. (IT) - Bachelor of Science in Information Technology",
   "Course" : "B.Sc (IT)",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 42,
@@ -1444,8 +1444,8 @@
   "Student Name" : "BHAVYATA MAHESH",
   "Specialization" : "B.Sc. (IT) - Bachelor of Science in Information Technology",
   "Course" : "B.Sc (IT)",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 43,
@@ -1453,8 +1453,8 @@
   "Student Name" : "DENZEL TANATSWA CHIDZIKWE",
   "Specialization" : "B.Sc. (IT) - Bachelor of Science in Information Technology",
   "Course" : "B.Sc (IT)",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 44,
@@ -1462,8 +1462,8 @@
   "Student Name" : "DONGA AVINASH YOGESHBHAI",
   "Specialization" : "B.Sc. (IT) - Bachelor of Science in Information Technology",
   "Course" : "B.Sc (IT)",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 45,
@@ -1471,8 +1471,8 @@
   "Student Name" : "MATROJA MITRAJSINH HITENDRASINH",
   "Specialization" : "B.Sc. (IT) - Bachelor of Science in Information Technology",
   "Course" : "B.Sc (IT)",
-  "SEM" : 6,
-  "Mini Project" : "CONSULTANCY"
+  "Semester" : 6,
+  "Type" : "CONSULTANCY"
 },
 {
   "S.No." : 46,
@@ -1480,8 +1480,8 @@
   "Student Name" : "MOHIT NINAMA",
   "Specialization" : "B.Sc. (IT) - Bachelor of Science in Information Technology",
   "Course" : "B.Sc (IT)",
-  "SEM" : 6,
-  "Mini Project" : "CONSULTANCY"
+  "Semester" : 6,
+  "Type" : "CONSULTANCY"
 },
 {
   "S.No." : 47,
@@ -1489,8 +1489,8 @@
   "Student Name" : "BEHARA SAGARKUMAR PURNACHANDRA",
   "Specialization" : "B.Sc. (IT) - Bachelor of Science in Information Technology",
   "Course" : "B.Sc (IT)",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 48,
@@ -1498,8 +1498,8 @@
   "Student Name" : "KHANT CHIRAG MANILAL",
   "Specialization" : "B.Sc. (IT) - Bachelor of Science in Information Technology",
   "Course" : "B.Sc (IT)",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 49,
@@ -1507,8 +1507,8 @@
   "Student Name" : "NEDARIYA AMIRBHAI IKBALBHAI",
   "Specialization" : "B.Sc. (IT) - Bachelor of Science in Information Technology",
   "Course" : "B.Sc (IT)",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 50,
@@ -1516,8 +1516,8 @@
   "Student Name" : "LABAKAMANA NAINESHKUMAR HASHMUKHBHAI",
   "Specialization" : "B.Sc. (IT) - Bachelor of Science in Information Technology",
   "Course" : "B.Sc (IT)",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 51,
@@ -1525,8 +1525,8 @@
   "Student Name" : "PAL HARSH SUJIT",
   "Specialization" : "B.Sc. (IT) - Bachelor of Science in Information Technology",
   "Course" : "B.Sc (IT)",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 52,
@@ -1534,8 +1534,8 @@
   "Student Name" : "PATEL DHARAL KIRANBHAI",
   "Specialization" : "B.Sc. (IT) - Bachelor of Science in Information Technology",
   "Course" : "B.Sc (IT)",
-  "SEM" : 6,
-  "Mini Project" : "CONSULTANCY"
+  "Semester" : 6,
+  "Type" : "CONSULTANCY"
 },
 {
   "S.No." : 53,
@@ -1543,8 +1543,8 @@
   "Student Name" : "BRIAN ISSAC LAISER",
   "Specialization" : "B.Sc. (IT) - Bachelor of Science in Information Technology",
   "Course" : "B.Sc (IT)",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 54,
@@ -1552,8 +1552,8 @@
   "Student Name" : "RAM SAGAR YADAV",
   "Specialization" : "B.Sc. (IT) - Bachelor of Science in Information Technology",
   "Course" : "B.Sc (IT)",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 55,
@@ -1561,8 +1561,8 @@
   "Student Name" : "THIEK MARTIN MALUTH MADIT",
   "Specialization" : "B.Sc. (IT) - Bachelor of Science in Information Technology",
   "Course" : "B.Sc (IT)",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 56,
@@ -1570,8 +1570,8 @@
   "Student Name" : "KAVYA BHARAT MAVANI",
   "Specialization" : "B.Sc. (IT) - Bachelor of Science in Information Technology",
   "Course" : "B.Sc (IT)",
-  "SEM" : 6,
-  "Mini Project" : "CONSULTANCY +INTERNSHIP"
+  "Semester" : 6,
+  "Type" : "CONSULTANCY +INTERNSHIP"
 },
 {
   "S.No." : 57,
@@ -1579,8 +1579,8 @@
   "Student Name" : "PATEL MOKSH RAJESHKUMAR",
   "Specialization" : "B.Sc. (IT) - Bachelor of Science in Information Technology",
   "Course" : "B.Sc (IT)",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 58,
@@ -1588,8 +1588,8 @@
   "Student Name" : "EURICO EMMANUEL CHIVAMBO",
   "Specialization" : "B.Sc. (IT) - Bachelor of Science in Information Technology",
   "Course" : "B.Sc (IT)",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 59,
@@ -1597,8 +1597,8 @@
   "Student Name" : "VULINDLELA MATHOBELA",
   "Specialization" : "B.Sc. (IT) - Bachelor of Science in Information Technology",
   "Course" : "B.Sc (IT)",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 60,
@@ -1606,8 +1606,8 @@
   "Student Name" : "ADITYA KUMAR SINGH",
   "Specialization" : "B.Sc. (IT) - Bachelor of Science in Information Technology",
   "Course" : "B.Sc (IT)",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 61,
@@ -1615,8 +1615,8 @@
   "Student Name" : "PRAJAPATI PRIYANSHU RAMESHBHAI",
   "Specialization" : "B.Sc. (IT) - Bachelor of Science in Information Technology",
   "Course" : "B.Sc (IT)",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 62,
@@ -1624,8 +1624,8 @@
   "Student Name" : "VINAYAK DEEPAK SOLANKI",
   "Specialization" : "B.Sc. (IT) - Bachelor of Science in Information Technology",
   "Course" : "B.Sc (IT)",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 63,
@@ -1633,8 +1633,8 @@
   "Student Name" : "PARMAR JAINEEL KAMLESHBHAI",
   "Specialization" : "B.Sc. (IT) - Bachelor of Science in Information Technology",
   "Course" : "B.Sc (IT)",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 64,
@@ -1642,8 +1642,8 @@
   "Student Name" : "YADAV NIKHILKUMAR BHARATBHAI",
   "Specialization" : "B.Sc. (IT) - Bachelor of Science in Information Technology",
   "Course" : "B.Sc (IT)",
-  "SEM" : 6,
-  "Mini Project" : "CONSULTANCY"
+  "Semester" : 6,
+  "Type" : "CONSULTANCY"
 },
 {
   "S.No." : 65,
@@ -1651,8 +1651,8 @@
   "Student Name" : "SATISH YADAV",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 66,
@@ -1660,8 +1660,8 @@
   "Student Name" : "SASPARA VANDIT RAJESHBHAI",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 67,
@@ -1669,8 +1669,8 @@
   "Student Name" : "AARTI MANDLOI",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 68,
@@ -1678,8 +1678,8 @@
   "Student Name" : "AASHISH POUDEL",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 69,
@@ -1687,8 +1687,8 @@
   "Student Name" : "AASHMA BHANDARI",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 70,
@@ -1696,8 +1696,8 @@
   "Student Name" : "ABDELRAHMAN EMADELDIN RABEA BAYOUMI",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "CONSULTANCY"
+  "Semester" : 6,
+  "Type" : "CONSULTANCY"
 },
 {
   "S.No." : 71,
@@ -1705,8 +1705,8 @@
   "Student Name" : "ABDUL HAKEEM KHAN",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "CONSULTANCY"
+  "Semester" : 6,
+  "Type" : "CONSULTANCY"
 },
 {
   "S.No." : 72,
@@ -1714,8 +1714,8 @@
   "Student Name" : "ABHISHEK PATEL",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 73,
@@ -1723,8 +1723,8 @@
   "Student Name" : "ABHISHEK U",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 74,
@@ -1732,8 +1732,8 @@
   "Student Name" : "ADARSH KUMAR GUPTA",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 75,
@@ -1741,8 +1741,8 @@
   "Student Name" : "ADARSH YADAV",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 76,
@@ -1750,8 +1750,8 @@
   "Student Name" : "ADITYA KUMAR JAISWAL",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 77,
@@ -1759,8 +1759,8 @@
   "Student Name" : "ADITYA SINGH",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 78,
@@ -1768,8 +1768,8 @@
   "Student Name" : "ADRISH ROY",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 79,
@@ -1777,8 +1777,8 @@
   "Student Name" : "ADVAIT KUNNATH",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "CONSULTANCY"
+  "Semester" : 6,
+  "Type" : "CONSULTANCY"
 },
 {
   "S.No." : 80,
@@ -1786,8 +1786,8 @@
   "Student Name" : "AJEET KUMAR",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 81,
@@ -1795,8 +1795,8 @@
   "Student Name" : "AKASH KUMAR",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 82,
@@ -1804,8 +1804,8 @@
   "Student Name" : "ALAA AL HAYEK",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 83,
@@ -1813,8 +1813,8 @@
   "Student Name" : "AMAN BAJIYA",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 84,
@@ -1822,8 +1822,8 @@
   "Student Name" : "AMATULLAH",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 85,
@@ -1831,8 +1831,8 @@
   "Student Name" : "AMEER RKAB",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 86,
@@ -1840,8 +1840,8 @@
   "Student Name" : "ANAMIKA NALAMKANDATHIL",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 87,
@@ -1849,8 +1849,8 @@
   "Student Name" : "ANANNYA BAHETI",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 88,
@@ -1858,8 +1858,8 @@
   "Student Name" : "ANGELINA CLEOTILDE CHICALA",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "CONSULTANCY"
+  "Semester" : 6,
+  "Type" : "CONSULTANCY"
 },
 {
   "S.No." : 89,
@@ -1867,8 +1867,8 @@
   "Student Name" : "ANJALI PANWAR",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 90,
@@ -1876,8 +1876,8 @@
   "Student Name" : "APPARNA RAJ",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 91,
@@ -1885,8 +1885,8 @@
   "Student Name" : "ARHAM JAIN",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 92,
@@ -1894,8 +1894,8 @@
   "Student Name" : "ARPAN KAYAL",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 93,
@@ -1903,8 +1903,8 @@
   "Student Name" : "ARSHIA VERMA",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 94,
@@ -1912,8 +1912,8 @@
   "Student Name" : "ARUN KUMAR YADAV",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 95,
@@ -1921,8 +1921,8 @@
   "Student Name" : "ASMITA KUMARI",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 96,
@@ -1930,8 +1930,8 @@
   "Student Name" : "ATUL RAI",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 97,
@@ -1939,8 +1939,8 @@
   "Student Name" : "AUNG BHONE MYINT",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 98,
@@ -1948,8 +1948,8 @@
   "Student Name" : "AUNG KYAW MYAT",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 99,
@@ -1957,8 +1957,8 @@
   "Student Name" : "BALAR VATSAL JAYESHKUMAR",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 100,
@@ -1966,8 +1966,8 @@
   "Student Name" : "BANATO BOL GARANG",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 101,
@@ -1975,8 +1975,8 @@
   "Student Name" : "BANDARU SAHASRAKSHITHA",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 102,
@@ -1984,8 +1984,8 @@
   "Student Name" : "BATTINA MEGHAN KUMAR",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 103,
@@ -1993,8 +1993,8 @@
   "Student Name" : "BHADESHIYA DARSHAN RAJESHKUMAR",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 104,
@@ -2002,8 +2002,8 @@
   "Student Name" : "BHAND PRATHAM RAJESHBHAI",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 105,
@@ -2011,8 +2011,8 @@
   "Student Name" : "BHARAKHADA UDAY AMITBHAI",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 106,
@@ -2020,8 +2020,8 @@
   "Student Name" : "BHATIA TAHER MURTUJA",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 107,
@@ -2029,8 +2029,8 @@
   "Student Name" : "BHAVYA JAIN",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 108,
@@ -2038,8 +2038,8 @@
   "Student Name" : "BHAYANI MEHUL VIPULBHAI",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 109,
@@ -2047,8 +2047,8 @@
   "Student Name" : "BIDHAN GHALLEY",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 110,
@@ -2056,8 +2056,8 @@
   "Student Name" : "BISHAL GHIMIRE",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 111,
@@ -2065,8 +2065,8 @@
   "Student Name" : "BORDA VATSAL NARESHBHAI",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 112,
@@ -2074,8 +2074,8 @@
   "Student Name" : "CHAMAN KUMAR SINGH",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 113,
@@ -2083,8 +2083,8 @@
   "Student Name" : "CHAUDHARI VATS KAMALBHAI",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 114,
@@ -2092,8 +2092,8 @@
   "Student Name" : "CHAUDHARY JAIMINKUMAR SHAILESHBHAI",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 115,
@@ -2101,8 +2101,8 @@
   "Student Name" : "CHAUDHARY PRAVEEN BABUBHAI",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 116,
@@ -2110,8 +2110,8 @@
   "Student Name" : "CHAUHAN BHARGAVKUMAR BHARATBHAI",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 117,
@@ -2119,8 +2119,8 @@
   "Student Name" : "CHAVDA MANAV PRAVINBHAI",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 118,
@@ -2128,8 +2128,8 @@
   "Student Name" : "CHAWANKE KARUNYA VISHWAS",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 119,
@@ -2137,8 +2137,8 @@
   "Student Name" : "DEEP SHARMA",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 120,
@@ -2146,8 +2146,8 @@
   "Student Name" : "DEEPAK KUMAR MISHRA",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 121,
@@ -2155,8 +2155,8 @@
   "Student Name" : "DEVASISH RAUT",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 122,
@@ -2164,8 +2164,8 @@
   "Student Name" : "DEVRAJ SAH",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 123,
@@ -2173,8 +2173,8 @@
   "Student Name" : "DHANWANI MAYUR KAMLESHBHAI",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 124,
@@ -2182,8 +2182,8 @@
   "Student Name" : "DIVYANSH SINGH RANA",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 125,
@@ -2191,8 +2191,8 @@
   "Student Name" : "DOMADIYA PRAMIT ANILBHAI",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 126,
@@ -2200,8 +2200,8 @@
   "Student Name" : "DULAR BHAWSAR",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 127,
@@ -2209,8 +2209,8 @@
   "Student Name" : "EVANILDO DANIEL JIBAMBO SIMANGO",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 128,
@@ -2218,8 +2218,8 @@
   "Student Name" : "GABRIEL SIJIN MAKER DHIAK",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 129,
@@ -2227,8 +2227,8 @@
   "Student Name" : "GAGAN JHA",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 130,
@@ -2236,8 +2236,8 @@
   "Student Name" : "GAMI ROHIT MAVJIBHAI",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 131,
@@ -2245,8 +2245,8 @@
   "Student Name" : "GARIMA SHARMA",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 132,
@@ -2254,8 +2254,8 @@
   "Student Name" : "GAUTAMM G S RAWAT",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 133,
@@ -2263,8 +2263,8 @@
   "Student Name" : "GHEDIYA NISHANT ASHOKBHAI",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 134,
@@ -2272,8 +2272,8 @@
   "Student Name" : "GIRASE RATNADIP BHIMSING",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 135,
@@ -2281,8 +2281,8 @@
   "Student Name" : "GODSHE PRATHAM PRAFULKUMAR",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "CONSULTANCY"
+  "Semester" : 6,
+  "Type" : "CONSULTANCY"
 },
 {
   "S.No." : 136,
@@ -2290,8 +2290,8 @@
   "Student Name" : "GONDALIYA ASHISH JIVANBHAI",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 137,
@@ -2299,8 +2299,8 @@
   "Student Name" : "GOSWAMI OMKARGIRI SANJAYGIRI",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 138,
@@ -2308,8 +2308,8 @@
   "Student Name" : "HAMZA MOHAMAD DALLA",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 139,
@@ -2317,8 +2317,8 @@
   "Student Name" : "HARDIK KASHYAP",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 140,
@@ -2326,8 +2326,8 @@
   "Student Name" : "HARDIK MODI",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 141,
@@ -2335,8 +2335,8 @@
   "Student Name" : "HARSH DEV NAYAK",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 142,
@@ -2344,8 +2344,8 @@
   "Student Name" : "HARSHIT KUMAR",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 143,
@@ -2353,8 +2353,8 @@
   "Student Name" : "HETKUMAR PATEL",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 144,
@@ -2362,8 +2362,8 @@
   "Student Name" : "HIMANSHU SINGH JADON",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 145,
@@ -2371,8 +2371,8 @@
   "Student Name" : "INDRAJEET KUMAR THAKUR",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 146,
@@ -2380,8 +2380,8 @@
   "Student Name" : "JAGDISH HANSARAM MALI",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 147,
@@ -2389,8 +2389,8 @@
   "Student Name" : "JASOLIYA PAL HARSHADBHAI",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 148,
@@ -2398,8 +2398,8 @@
   "Student Name" : "JATIN KUMAR BAKAWALE",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 149,
@@ -2407,8 +2407,8 @@
   "Student Name" : "JEEL HARSUKH BHAI",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 150,
@@ -2416,8 +2416,8 @@
   "Student Name" : "JIGME THINLEY",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 151,
@@ -2425,8 +2425,8 @@
   "Student Name" : "JUMLIWALA ALKABIR MAHAMMEDSHAKIR",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 152,
@@ -2434,8 +2434,8 @@
   "Student Name" : "KABRA RAGHAV JAGDISHBHAI",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 153,
@@ -2443,8 +2443,8 @@
   "Student Name" : "KALPESH VERMA",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 154,
@@ -2452,8 +2452,8 @@
   "Student Name" : "KANDHARKAR ANSH VISHAL",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 155,
@@ -2461,8 +2461,8 @@
   "Student Name" : "KANISHK BANSAL",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 156,
@@ -2470,8 +2470,8 @@
   "Student Name" : "KARAN DARSHAN KUBER",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 157,
@@ -2479,8 +2479,8 @@
   "Student Name" : "KARAN KUMAR SARRAF",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 158,
@@ -2488,8 +2488,8 @@
   "Student Name" : "KARANSINH RATHOD",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 159,
@@ -2497,8 +2497,8 @@
   "Student Name" : "KARMA LHADEN",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 160,
@@ -2506,8 +2506,8 @@
   "Student Name" : "KESARI BRAHMA RISHENDRA REDDY",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 161,
@@ -2515,8 +2515,8 @@
   "Student Name" : "KHEDER BADIE MOHAMMAD",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 162,
@@ -2524,8 +2524,8 @@
   "Student Name" : "KHILJI MOHMAD VASIM SAEED",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 163,
@@ -2533,8 +2533,8 @@
   "Student Name" : "KHUSHI PATEL",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 164,
@@ -2542,8 +2542,8 @@
   "Student Name" : "KIRAN SWAMI",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 165,
@@ -2551,8 +2551,8 @@
   "Student Name" : "KOTHARI JEETKUMAR HITENKUMAR",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 166,
@@ -2560,8 +2560,8 @@
   "Student Name" : "KRATI JAIN",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 167,
@@ -2569,8 +2569,8 @@
   "Student Name" : "KRRISH PATIDAR",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 168,
@@ -2578,8 +2578,8 @@
   "Student Name" : "KULDEEP MALVIYA",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 169,
@@ -2587,8 +2587,8 @@
   "Student Name" : "KUMAR SURYANSH SANJAYKUMAR",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 170,
@@ -2596,8 +2596,8 @@
   "Student Name" : "KUSHAL BORDIA",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 171,
@@ -2605,8 +2605,8 @@
   "Student Name" : "LUCKY KUMAR",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 172,
@@ -2614,8 +2614,8 @@
   "Student Name" : "LUCKY MOURYA",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 173,
@@ -2623,8 +2623,8 @@
   "Student Name" : "M SUDHIR RAO",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 174,
@@ -2632,8 +2632,8 @@
   "Student Name" : "MADDIKA PRAMOD KUMAR REDDY",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "CONSULTANCY"
+  "Semester" : 6,
+  "Type" : "CONSULTANCY"
 },
 {
   "S.No." : 175,
@@ -2641,8 +2641,8 @@
   "Student Name" : "MAHESH PRADHAN",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 176,
@@ -2650,8 +2650,8 @@
   "Student Name" : "MAHTO PREMA UMESHBHAI",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 177,
@@ -2659,8 +2659,8 @@
   "Student Name" : "MALEK MAHAMMAD ZAID ANWAR HUSEN",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 178,
@@ -2668,8 +2668,8 @@
   "Student Name" : "MALETE SUMIT YOGESHRAO",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 179,
@@ -2677,8 +2677,8 @@
   "Student Name" : "MANJIT SINGHA",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 180,
@@ -2686,8 +2686,8 @@
   "Student Name" : "MD KAMRAN",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 181,
@@ -2695,8 +2695,8 @@
   "Student Name" : "MEGHA CHATTERJEE",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 182,
@@ -2704,8 +2704,8 @@
   "Student Name" : "ANURANJAN MINJ",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 183,
@@ -2713,8 +2713,8 @@
   "Student Name" : "MISHRA KARTIKEY VIRENDRA",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 184,
@@ -2722,8 +2722,8 @@
   "Student Name" : "MITESH RAJPUROHIT",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 185,
@@ -2731,8 +2731,8 @@
   "Student Name" : "MOHAMMAD AHMAD AHMAD",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 186,
@@ -2740,8 +2740,8 @@
   "Student Name" : "MOTAVAR VISHMA PRAVINCHANDRA",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 187,
@@ -2749,8 +2749,8 @@
   "Student Name" : "MULANI RAHULBHAI KARSHANBHAI",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 188,
@@ -2758,8 +2758,8 @@
   "Student Name" : "NAMGAY DORJI",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 189,
@@ -2767,8 +2767,8 @@
   "Student Name" : "NEHA SHAH",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 190,
@@ -2776,8 +2776,8 @@
   "Student Name" : "NIKITA ASHWIN PANDEY",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 191,
@@ -2785,8 +2785,8 @@
   "Student Name" : "NISHAD TANISHA SHAILESH",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 192,
@@ -2794,8 +2794,8 @@
   "Student Name" : "NITIN PRAKASH",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 193,
@@ -2803,8 +2803,8 @@
   "Student Name" : "NITIN RAJ",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 194,
@@ -2812,8 +2812,8 @@
   "Student Name" : "NOOR MOHAMMAD MAKRANI",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 195,
@@ -2821,8 +2821,8 @@
   "Student Name" : "OMAR ALMASRI",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 196,
@@ -2830,8 +2830,8 @@
   "Student Name" : "OTTANASWALD BONDLILE NYATHI",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 197,
@@ -2839,8 +2839,8 @@
   "Student Name" : "PANCHAL SIDDHI HARESHKUMAR",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 198,
@@ -2848,8 +2848,8 @@
   "Student Name" : "PANDYA DEV RAHULKUMAR",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 199,
@@ -2857,8 +2857,8 @@
   "Student Name" : "PANKAJ MAHATO",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 200,
@@ -2866,8 +2866,8 @@
   "Student Name" : "PARI SONI",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 201,
@@ -2875,8 +2875,8 @@
   "Student Name" : "PARMAR BHAVESH MANILAL",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 202,
@@ -2884,8 +2884,8 @@
   "Student Name" : "PARMAR SUJAL NARESHBHAI",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 203,
@@ -2893,8 +2893,8 @@
   "Student Name" : "PARSANI REHANBHAI HARUNBHAI",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 204,
@@ -2902,8 +2902,8 @@
   "Student Name" : "PATEL DIYA",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 205,
@@ -2911,8 +2911,8 @@
   "Student Name" : "PATEL HAMDAN SIRAJUDDIN",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 206,
@@ -2920,8 +2920,8 @@
   "Student Name" : "PATEL HANIBEN RAJESHKUMAR",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 207,
@@ -2929,8 +2929,8 @@
   "Student Name" : "PATEL HARSH DHARMENDRABHAI",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 208,
@@ -2938,8 +2938,8 @@
   "Student Name" : "PATEL MEET VIDESHBHAI",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 209,
@@ -2947,8 +2947,8 @@
   "Student Name" : "PATEL PAVANKUMAR RAJENDRAKUMAR",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 210,
@@ -2956,8 +2956,8 @@
   "Student Name" : "PATEL SAI YOGESHKUMAR",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "CONSULTANCY +INTERNSHIP"
+  "Semester" : 6,
+  "Type" : "CONSULTANCY +INTERNSHIP"
 },
 {
   "S.No." : 211,
@@ -2965,8 +2965,8 @@
   "Student Name" : "PATEL SANDIPBHAI VISHNUBHAI",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 212,
@@ -2974,8 +2974,8 @@
   "Student Name" : "PATEL SHIVANSHKUMAR JAYESHBHAI",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 213,
@@ -2983,8 +2983,8 @@
   "Student Name" : "PATEL VEDANT MAHENDRABHAI",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 214,
@@ -2992,8 +2992,8 @@
   "Student Name" : "PATEL VRUNDA YOGESHKUMAR",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 215,
@@ -3001,8 +3001,8 @@
   "Student Name" : "PATHAN SAHIDKHAN RASULKHAN",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 216,
@@ -3010,8 +3010,8 @@
   "Student Name" : "PATIL KUNDAN DINESH",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 217,
@@ -3019,8 +3019,8 @@
   "Student Name" : "PATIL NEHA GYANESHWAR",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 218,
@@ -3028,8 +3028,8 @@
   "Student Name" : "PIPROTAR MILAN",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 219,
@@ -3037,8 +3037,8 @@
   "Student Name" : "PIYA KANKARWAL",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 220,
@@ -3046,8 +3046,8 @@
   "Student Name" : "PIYUSH KUMAR",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 221,
@@ -3055,8 +3055,8 @@
   "Student Name" : "PIYUSH PANDEY",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "CONSULTANCY"
+  "Semester" : 6,
+  "Type" : "CONSULTANCY"
 },
 {
   "S.No." : 222,
@@ -3064,8 +3064,8 @@
   "Student Name" : "POPATWALA AMAANALI MAZAHIR",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "CONSULTANCY +INTERNSHIP"
+  "Semester" : 6,
+  "Type" : "CONSULTANCY +INTERNSHIP"
 },
 {
   "S.No." : 223,
@@ -3073,8 +3073,8 @@
   "Student Name" : "PRADEEP DARJI",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 224,
@@ -3082,8 +3082,8 @@
   "Student Name" : "PRANESH KUMAR BHATTARAI",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 225,
@@ -3091,8 +3091,8 @@
   "Student Name" : "PRANSHU JOSHI",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 226,
@@ -3100,8 +3100,8 @@
   "Student Name" : "PRITESH PREMJI SIKOTARIA",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 227,
@@ -3109,8 +3109,8 @@
   "Student Name" : "PRIYAL PORIA",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 228,
@@ -3118,8 +3118,8 @@
   "Student Name" : "PURVA ASHOK KOTE",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 229,
@@ -3127,8 +3127,8 @@
   "Student Name" : "PUSHPA KUMARI DARJEE",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 230,
@@ -3136,8 +3136,8 @@
   "Student Name" : "R DHRUV SHARMA",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 231,
@@ -3145,8 +3145,8 @@
   "Student Name" : "RAJPUT HARSHIT RANJEETSINH",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 232,
@@ -3154,8 +3154,8 @@
   "Student Name" : "RAJPUT KOMAL MUKESH",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 233,
@@ -3163,8 +3163,8 @@
   "Student Name" : "RAJVI PATEL",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 234,
@@ -3172,8 +3172,8 @@
   "Student Name" : "RATHOD PRADHYUMAN BHUPENDRABHAI",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 235,
@@ -3181,8 +3181,8 @@
   "Student Name" : "PATEL REESHI MAHESHKUMAR",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 236,
@@ -3190,8 +3190,8 @@
   "Student Name" : "RISHABH RAI",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 237,
@@ -3199,8 +3199,8 @@
   "Student Name" : "RISHI KUMAWAT",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "CONSULTANCY"
+  "Semester" : 6,
+  "Type" : "CONSULTANCY"
 },
 {
   "S.No." : 238,
@@ -3208,8 +3208,8 @@
   "Student Name" : "ROHIT NEHABEN SHAILESHBHAI",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 239,
@@ -3217,8 +3217,8 @@
   "Student Name" : "ROSHAN KUMAR MANDAL",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 240,
@@ -3226,8 +3226,8 @@
   "Student Name" : "SABIR ANSHARI",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 241,
@@ -3235,8 +3235,8 @@
   "Student Name" : "SAH ALAM SK",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 242,
@@ -3244,8 +3244,8 @@
   "Student Name" : "SAIYED KOMELABBAS MOHAMMEDHASAN",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 243,
@@ -3253,8 +3253,8 @@
   "Student Name" : "SAIYED MOHAMMED OBAID ASLAMALI",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 244,
@@ -3262,8 +3262,8 @@
   "Student Name" : "SAKSHI PATIL",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 245,
@@ -3271,8 +3271,8 @@
   "Student Name" : "SAKSHI YADAV",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "CONSULTANCY"
+  "Semester" : 6,
+  "Type" : "CONSULTANCY"
 },
 {
   "S.No." : 246,
@@ -3280,8 +3280,8 @@
   "Student Name" : "SALMAN FAROOQ",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 247,
@@ -3289,8 +3289,8 @@
   "Student Name" : "SANAT GAMOTH",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 248,
@@ -3298,8 +3298,8 @@
   "Student Name" : "SANDEEP KUMAR",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 249,
@@ -3307,8 +3307,8 @@
   "Student Name" : "SANDHYA SINGH",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 250,
@@ -3316,8 +3316,8 @@
   "Student Name" : "SATYAM",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 251,
@@ -3325,8 +3325,8 @@
   "Student Name" : "SATYASHREE JAYANTILAL",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "CONSULTANCY"
+  "Semester" : 6,
+  "Type" : "CONSULTANCY"
 },
 {
   "S.No." : 252,
@@ -3334,8 +3334,8 @@
   "Student Name" : "SHARMA DEEPAK VIRENDRA",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 253,
@@ -3343,8 +3343,8 @@
   "Student Name" : "SHARMA SANDEEP",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 254,
@@ -3352,8 +3352,8 @@
   "Student Name" : "SHASHANK JIMIWAL",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "CONSULTANCY +INTERNSHIP"
+  "Semester" : 6,
+  "Type" : "CONSULTANCY +INTERNSHIP"
 },
 {
   "S.No." : 255,
@@ -3361,8 +3361,8 @@
   "Student Name" : "SHRESHTH BARFA",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 256,
@@ -3370,8 +3370,8 @@
   "Student Name" : "SHREYAS CHOUKADE",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 257,
@@ -3379,8 +3379,8 @@
   "Student Name" : "SHUBHAM BHATTACHARYA",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 258,
@@ -3388,8 +3388,8 @@
   "Student Name" : "SIDDHI KOTHARI",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 259,
@@ -3397,8 +3397,8 @@
   "Student Name" : "SINGH MAHI BRIJESH",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 260,
@@ -3406,8 +3406,8 @@
   "Student Name" : "SINGH MANDEEP MAHENDRASINGH",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 261,
@@ -3415,8 +3415,8 @@
   "Student Name" : "SOLANKI HARDIK VINODBHAI",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 262,
@@ -3424,8 +3424,8 @@
   "Student Name" : "SOLANKI ISHA ASHVINBHAI",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 263,
@@ -3433,8 +3433,8 @@
   "Student Name" : "SOLANKI NIMISHA SURESHBHAI",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 264,
@@ -3442,8 +3442,8 @@
   "Student Name" : "SONI YUVRAJ VINAYKUMAR",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "CONSULTANCY +INTERNSHIP"
+  "Semester" : 6,
+  "Type" : "CONSULTANCY +INTERNSHIP"
 },
 {
   "S.No." : 265,
@@ -3451,8 +3451,8 @@
   "Student Name" : "SUBHAM RAJ",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 266,
@@ -3460,8 +3460,8 @@
   "Student Name" : "SUDHYANSHU KALAL",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "CONSULTANCY +INTERNSHIP"
+  "Semester" : 6,
+  "Type" : "CONSULTANCY +INTERNSHIP"
 },
 {
   "S.No." : 267,
@@ -3469,8 +3469,8 @@
   "Student Name" : "SUMIT VISHWAKARMA",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 268,
@@ -3478,8 +3478,8 @@
   "Student Name" : "SUPHACH KANGVANRATTANA",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 269,
@@ -3487,8 +3487,8 @@
   "Student Name" : "TAMMAM AL SHOMARI",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 270,
@@ -3496,8 +3496,8 @@
   "Student Name" : "TANATSWA CHRISPEN NYAMBO",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 271,
@@ -3505,8 +3505,8 @@
   "Student Name" : "TANISHK PATIDAR",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 272,
@@ -3514,8 +3514,8 @@
   "Student Name" : "TANNA SARAS VRAJDAS",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 273,
@@ -3523,8 +3523,8 @@
   "Student Name" : "TASHI TOBGAY",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 274,
@@ -3532,8 +3532,8 @@
   "Student Name" : "THERADE ATHRAV MAHADEV",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 275,
@@ -3541,8 +3541,8 @@
   "Student Name" : "THOTA VASU PRADA",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 276,
@@ -3550,8 +3550,8 @@
   "Student Name" : "THU TA NYAN",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 277,
@@ -3559,8 +3559,8 @@
   "Student Name" : "TLALI ANDREW THOAHLANE",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 278,
@@ -3568,8 +3568,8 @@
   "Student Name" : "TRIPATHI DHIRAJ",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 279,
@@ -3577,8 +3577,8 @@
   "Student Name" : "TRIVEDI NILKESH PRAMODBHAI",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 280,
@@ -3586,8 +3586,8 @@
   "Student Name" : "TUSHA PRASHANT SINGH",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 281,
@@ -3595,8 +3595,8 @@
   "Student Name" : "UDESHI KALP MILANKUMAR",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 282,
@@ -3604,8 +3604,8 @@
   "Student Name" : "UMARETIYA RAJKUMAR PARESHBHAI",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 283,
@@ -3613,8 +3613,8 @@
   "Student Name" : "UVESHBEG MOHAMMADBEG MIRZA",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 284,
@@ -3622,8 +3622,8 @@
   "Student Name" : "VADOLIYA DIVY NIKHILBHAI",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 285,
@@ -3631,8 +3631,8 @@
   "Student Name" : "VANSH PANCHAL",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 286,
@@ -3640,8 +3640,8 @@
   "Student Name" : "VASAVA VIGNESH SURESHBHAI",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 287,
@@ -3649,8 +3649,8 @@
   "Student Name" : "VERMA GAURAV NARENDRAPRATAP",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "CONSULTANCY"
+  "Semester" : 6,
+  "Type" : "CONSULTANCY"
 },
 {
   "S.No." : 288,
@@ -3658,8 +3658,8 @@
   "Student Name" : "VIJAY PRAJAPAT",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "CONSULTANCY +INTERNSHIP"
+  "Semester" : 6,
+  "Type" : "CONSULTANCY +INTERNSHIP"
 },
 {
   "S.No." : 289,
@@ -3667,8 +3667,8 @@
   "Student Name" : "VIREN KUMAR",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 290,
@@ -3676,8 +3676,8 @@
   "Student Name" : "VISHAL RATHOD",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 291,
@@ -3685,8 +3685,8 @@
   "Student Name" : "VISHVA SUKHADIYA",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 292,
@@ -3694,8 +3694,8 @@
   "Student Name" : "VYAS DEVANSHI GHANSHYAMBHAI",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 293,
@@ -3703,8 +3703,8 @@
   "Student Name" : "WAGHELA UDIT HITENDRABHAI",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 294,
@@ -3712,8 +3712,8 @@
   "Student Name" : "WALID AL HINNAWI",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 295,
@@ -3721,8 +3721,8 @@
   "Student Name" : "YANGBIU YADA",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "CONSULTANCY"
+  "Semester" : 6,
+  "Type" : "CONSULTANCY"
 },
 {
   "S.No." : 296,
@@ -3730,8 +3730,8 @@
   "Student Name" : "YASER ALJOHMANI",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 297,
@@ -3739,8 +3739,8 @@
   "Student Name" : "YATIN PATIDAR",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 298,
@@ -3748,8 +3748,8 @@
   "Student Name" : "ZALA YATRABEN RANJITSINH",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 299,
@@ -3757,8 +3757,8 @@
   "Student Name" : "ADITYA KUMAR SINGH",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 300,
@@ -3766,8 +3766,8 @@
   "Student Name" : "DAVE ISHAN JIGAR",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 301,
@@ -3775,8 +3775,8 @@
   "Student Name" : "DHRUV DABHOIKAR",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 302,
@@ -3784,8 +3784,8 @@
   "Student Name" : "JYOTISHMAR BORO",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 303,
@@ -3793,8 +3793,8 @@
   "Student Name" : "KHIMANI SARJITSINGH DHARAMSINGH",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 304,
@@ -3802,8 +3802,8 @@
   "Student Name" : "PATEL KRISH RAJESHBHAI",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 305,
@@ -3811,8 +3811,8 @@
   "Student Name" : "SAURAV KUMAR GUPTA",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 306,
@@ -3820,8 +3820,8 @@
   "Student Name" : "VAGHELA PARTHRAJSINH JAYDIPSINH",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 307,
@@ -3829,8 +3829,8 @@
   "Student Name" : "SHIVAM KUMAR",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 308,
@@ -3838,8 +3838,8 @@
   "Student Name" : "VANSH RAJ",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 309,
@@ -3847,8 +3847,8 @@
   "Student Name" : "DANG VANSH DHARMESKUMAR",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 310,
@@ -3856,8 +3856,8 @@
   "Student Name" : "PATEL TARAL DIPAKBHAI",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 311,
@@ -3865,8 +3865,8 @@
   "Student Name" : "MOHAMMAD ABO ADEL",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 312,
@@ -3874,8 +3874,8 @@
   "Student Name" : "MALI MOHIT BHARAT",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 313,
@@ -3883,8 +3883,8 @@
   "Student Name" : "HARDIK RAJU KAHAR",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 314,
@@ -3892,8 +3892,8 @@
   "Student Name" : "PRADHAN VINAY SANJAY",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 315,
@@ -3901,8 +3901,8 @@
   "Student Name" : "PANDYA HARSH JANAKBHAI",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 316,
@@ -3910,8 +3910,8 @@
   "Student Name" : "DIOH KENDRICK DEBLEH",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 317,
@@ -3919,8 +3919,8 @@
   "Student Name" : "MAUNG MYAT AUNG",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 318,
@@ -3928,8 +3928,8 @@
   "Student Name" : "MOUSTANSIR ABDOULALY",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 319,
@@ -3937,8 +3937,8 @@
   "Student Name" : "FALDU YASHVI SANJAY BHAI",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 320,
@@ -3946,8 +3946,8 @@
   "Student Name" : "DEORE DEVENDRA BALRAM",
   "Specialization" : "BCA - Bachelor of Computer Applications",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "NOT SUBMITTED"
+  "Semester" : 6,
+  "Type" : "NOT SUBMITTED"
 },
 {
   "S.No." : 321,
@@ -3955,8 +3955,8 @@
   "Student Name" : "Garv Dixit",
   "Specialization" : "BCA",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 322,
@@ -3964,8 +3964,8 @@
   "Student Name" : "Pranav Sharma",
   "Specialization" : "BCA",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 323,
@@ -3973,8 +3973,8 @@
   "Student Name" : "Simran Rai",
   "Specialization" : "BCA",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 324,
@@ -3982,8 +3982,8 @@
   "Student Name" : "Patel Zenith Kamlesh Bhai",
   "Specialization" : "BCA",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 325,
@@ -3991,8 +3991,8 @@
   "Student Name" : "Pathan Zaid HusenJafar",
   "Specialization" : "BCA",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 326,
@@ -4000,8 +4000,8 @@
   "Student Name" : "Bhatt Het Vipul Bhai",
   "Specialization" : "BCA",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 327,
@@ -4009,8 +4009,8 @@
   "Student Name" : "Patel Priyam",
   "Specialization" : "BCA",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 328,
@@ -4018,8 +4018,8 @@
   "Student Name" : "Patel Bhakti",
   "Specialization" : "BCA",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 329,
@@ -4027,8 +4027,8 @@
   "Student Name" : "Gohel Abu Sufiyan",
   "Specialization" : "BCA",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 330,
@@ -4036,8 +4036,8 @@
   "Student Name" : "Abhishek Nair",
   "Specialization" : "BSC IT",
   "Course" : "BSC IT",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 331,
@@ -4045,8 +4045,8 @@
   "Student Name" : "PATEL SHIVANG BHUPENDRABHAI",
   "Specialization" : "BCA",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 332,
@@ -4054,8 +4054,8 @@
   "Student Name" : "Avesh Saiyed",
   "Specialization" : "BCA",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 333,
@@ -4063,26 +4063,26 @@
   "Student Name" : "VALLE GANGADHAR",
   "Specialization" : "BCA",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "UDP"
+  "Semester" : 6,
+  "Type" : "UDP"
 },
 {
   "S.No." : 334,
   "Enrollment No." : 2205103110015,
   "Student Name" : "Patel Janki",
-  "Specialization" : "IMCA SEM 8",
+  "Specialization" : "IMCA Semester 8",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "CONSULTANCY"
+  "Semester" : 6,
+  "Type" : "CONSULTANCY"
 },
 {
   "S.No." : 335,
   "Enrollment No." : 2205103120010,
   "Student Name" : "prabhat rathod",
-  "Specialization" : "IMCA sem 8",
+  "Specialization" : "IMCA Semester 8",
   "Course" : "IMCA",
-  "SEM" : 6,
-  "Mini Project" : "CONSULTANCY"
+  "Semester" : 6,
+  "Type" : "CONSULTANCY"
 },
 {
   "S.No." : 336,
@@ -4090,8 +4090,8 @@
   "Student Name" : "Arpita Sharma",
   "Specialization" : "BCA",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 337,
@@ -4099,8 +4099,8 @@
   "Student Name" : "Anamika Sengupta",
   "Specialization" : "BCA",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "INTERNSHIP+UDP"
+  "Semester" : 6,
+  "Type" : "INTERNSHIP+UDP"
 },
 {
   "S.No." : 338,
@@ -4108,8 +4108,8 @@
   "Student Name" : "Aayushmaan Yadav",
   "Specialization" : "BCA",
   "Course" : "BCA",
-  "SEM" : 6,
-  "Mini Project" : "CONSULTANCY"
+  "Semester" : 6,
+  "Type" : "CONSULTANCY"
 },
 {
   "S.No." : 339,
@@ -4117,8 +4117,8 @@
   "Student Name" : "Vrutika Narendrasinh Rajput",
   "Specialization" : "BSC IT(H)",
   "Course" : "BSC IT(H)",
-  "SEM" : 8,
-  "Mini Project" : "UDP"
+  "Semester" : 8,
+  "Type" : "UDP"
 },
 {
   "S.No." : 340,
@@ -4126,8 +4126,8 @@
   "Student Name" : "Solanki Uday Karshanbhai",
   "Specialization" : "BSC IT(H)",
   "Course" : "BSC IT(H)",
-  "SEM" : 8,
-  "Mini Project" : "UDP"
+  "Semester" : 8,
+  "Type" : "UDP"
 },
 {
   "S.No." : 341,
@@ -4135,8 +4135,8 @@
   "Student Name" : "Usha Patel",
   "Specialization" : "BSC IT(H)",
   "Course" : "BSC IT(H)",
-  "SEM" : 8,
-  "Mini Project" : "UDP"
+  "Semester" : 8,
+  "Type" : "UDP"
 },
 {
   "S.No." : 342,
@@ -4144,8 +4144,8 @@
   "Student Name" : "Solanki Ravi",
   "Specialization" : "BSC IT(H)",
   "Course" : "BSC IT(H)",
-  "SEM" : 8,
-  "Mini Project" : "UDP"
+  "Semester" : 8,
+  "Type" : "UDP"
 },
 {
   "S.No." : 343,
@@ -4153,8 +4153,8 @@
   "Student Name" : "Falguni Wadhwana",
   "Specialization" : "BSC IT(H)",
   "Course" : "BSC IT(H)",
-  "SEM" : 8,
-  "Mini Project" : "UDP"
+  "Semester" : 8,
+  "Type" : "UDP"
 },
 {
   "S.No." : 344,
@@ -4162,8 +4162,8 @@
   "Student Name" : "Parmar Hemangi Dineshbhai",
   "Specialization" : "BSC IT(H)",
   "Course" : "BSC IT(H)",
-  "SEM" : 8,
-  "Mini Project" : "UDP"
+  "Semester" : 8,
+  "Type" : "UDP"
 },
 {
   "S.No." : 345,
@@ -4171,8 +4171,8 @@
   "Student Name" : "SHUBHAM YADAV",
   "Specialization" : "BSC IT(H)",
   "Course" : "BSC IT(H)",
-  "SEM" : 8,
-  "Mini Project" : "UDP"
+  "Semester" : 8,
+  "Type" : "UDP"
 },
 {
   "S.No." : 346,
@@ -4180,8 +4180,8 @@
   "Student Name" : "Patel Prushti Hirenkumar",
   "Specialization" : "BSC IT(H)",
   "Course" : "BSC IT(H)",
-  "SEM" : 8,
-  "Mini Project" : "UDP"
+  "Semester" : 8,
+  "Type" : "UDP"
 },
 {
   "S.No." : 347,
@@ -4189,7 +4189,7 @@
   "Student Name" : "Prakhar Pandya",
   "Specialization" : "BSC IT(H)",
   "Course" : "BSC IT(H)",
-  "SEM" : 8,
-  "Mini Project" : "UDP"
+  "Semester" : 8,
+  "Type" : "UDP"
 }
 ]
